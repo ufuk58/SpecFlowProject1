@@ -1,0 +1,10 @@
+{
+  "BrowserType": "chrome",
+  "Env": {
+    "name": "test",
+    "url": "https://www.google.com",
+    "username": "",
+    "password": ""
+
+  }
+}
